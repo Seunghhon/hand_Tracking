@@ -1,4 +1,5 @@
 # hand_Tracking
 
-*openCV
-*mediapipe
+#openCV
+
+#mediapipe
