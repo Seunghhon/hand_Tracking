@@ -1,3 +1,3 @@
 # hand_Tracking
 
-a hand tracker using mediapipe and openCV
+A hand tracker using mediapipe and openCV
