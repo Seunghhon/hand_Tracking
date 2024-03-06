@@ -38,6 +38,4 @@ while True:
     cv2.imshow("Image", img)
     cv2.waitKey(1)
 
-#https://www.youtube.com/watch?v=ZjM_XQa5s6s
-
 #https://google.github.io/mediapipe/solutions/hands.html
